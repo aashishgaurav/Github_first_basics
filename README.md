@@ -3,4 +3,4 @@ First git commit.
 <br>
 Second git commit
 <br>
-Author: Aashish Gaurav
+Author: Aashish (Gaurav)
